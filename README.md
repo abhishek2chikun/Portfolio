@@ -5,4 +5,5 @@ The **Frontend** part is deployed in **Netlify** and the **Beckend** part in **H
 
 [Portfolio link](https://abhishekpanigrahiportfolio.netlify.app/)
 
-![alt text](Screenshot from 2021-01-25 00-45-59.png)
+! [alt text](Screenshot from 2021-01-25 00-45-59.png)
+https://github.com/abhishek2chikun/Portfolio/blob/master/Screenshot%20from%202021-01-25%2000-45-59.png?raw=true "Title"https://github.com/abhishek2chikun/Portfolio/blob/master/Screenshot%20from%202021-01-25%2000-45-59.png?raw=true "Title"
